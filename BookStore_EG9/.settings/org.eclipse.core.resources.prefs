@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/atguigu/bookstore/bean/Order.java=UTF-8
+encoding//src/com/atguigu/bookstore/bean/OrderItem.java=UTF-8
+encoding//src/com/atguigu/bookstore/dao/BaseDao.java=UTF-8
+encoding//src/com/atguigu/bookstore/dao/OrderItemDao.java=UTF-8
+encoding//src/com/atguigu/bookstore/dao/UserDao.java=UTF-8
+encoding//src/com/atguigu/bookstore/service/UserService.java=UTF-8
+encoding//src/com/atguigu/bookstore/servlet/client/LoginServlet.java=UTF-8
+encoding//src/com/atguigu/bookstore/servlet/client/RegistServlet.java=UTF-8
+encoding//src/com/atguigu/bookstore/servlet/manager/BookManagerServlet.java=UTF-8
